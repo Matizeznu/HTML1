@@ -1,1 +1,53 @@
 # HTML1
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+      <h1>
+            <p align="center">  <font color="red">MOŻLIWOŚCI UZYSKIWANIA DODATKOWYCH KWALIFIKACJI<br>
+                W ZAWODACH W RAMACH OBSZARU KSZTAŁCENIA OKREŚLONEGO<br>
+                W KLASYFIKACJI ZAWODÓW SZKOLNICTWA ZAWODOWEGO</font>
+            </p>
+      </h1>
+      <br>
+     <p>
+         <center> 
+             <font size=5>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+             Absolwent szkoły kształcącej w zawodzie <U>technik informatyk</U>  po potwierdzeniu kwalifikacji:    </center>   
+            </font>
+     </p>
+     <br>
+     <p>
+			<ul type="none">
+				<li><b>E.12.</b>Montaż i eksploatacja komputerów osobistych oraz urządzeń peryferyjnych,</li>
+				<li><b>E.13.</b>Projektowanie lokalnych sieci komputerowych i administrowanie sieciami i</li>
+				<li><b>E.14.</b>Tworzenie aplikacji i baz danych oraz administrowanie bazami</li>
+			
+		   </ul>
+     </p>
+     <p>
+         <center>może uzyskać dyplom potwierdzający kwalifikacje w zawodzie<u>technik teleinformatyk</u>,po
+        <br>
+        potwierdzeniu dodatkowo kwalifikacji
+    </center>
+     </p>
+     <p>
+		<ul type="none">
+			<li><b>E.15.</b>Uruchamianie oraz utrzymanie i przyłączy abonenckich i</li>
+			<li><b>E.16.</b>Montaż i eksploatacja sieci rozległych.</li>
+         
+		</ul>
+     </p>
+    </font>
+    <p>
+        <center>
+            <font color="blue">&copy<strong><abbr title="Wydawnictwo Szkolne i Pedagogiczne">WSIP</abbr></strong></font>
+        </center>
+    </p>
+</body>
+</html>
