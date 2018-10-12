@@ -1,0 +1,113 @@
+# HTML1
+<!DOCTYPE <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>jolopolololo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Bitter|Charmonman|Roboto+Mono|Roboto+Slab" rel="stylesheet">
+</head>
+<body>
+<table border="0" align=center height="100%" width="80%">
+	<tr height=" bgcolor="62bcdb">
+					<td>
+				<table border="0" align=center height="60%" width="50%">
+					<tr>
+						<td>
+							<p align=center><font color="yellow"><i class="fa fa-phone-square fa-5x" aria-hidden="true"></i></font></p>
+						</td>
+					</tr>
+					<tr>
+						<td align=center><font size="7" face="Roboto Slab">CREATING</font></td>
+					</tr>
+					<tr>
+						<td align=center><font size="10" color="white" face="Roboto Mono">email</font><font size="10" color="0d3644" face="Charmonman"> magic</font>	</td>
+					</tr>
+				</table>
+					</td>
+						</tr>
+							<tr>
+								<td>
+									<table border="0" align=center height="60%" width="80%">
+										<tr>	
+											<th align="left">Lorem ipsum dolor sit amet!</th>
+										</tr>
+											<tr>
+											<td height="30%">	
+												Czym jest Lorem Ipsum?
+												Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym, pozostając praktycznie niezmienionym. Spopularyzował się w latach 60. XX w. wraz z publikacją arkuszy Letrasetu, zawierających fragmenty Lorem Ipsum, a ostatnio z zawierającym różne wersje Lorem Ipsum oprogramowaniem przeznaczonym do realizacji druków na komputerach osobistych, jak Aldus PageMaker
+											</td>
+											</tr>
+												<tr>
+													<td>
+														<table border="0" align=center height="60%" width="100%">
+													<tr>
+													<td width="45%">
+														<table border="0" align=center height="100%" width="100%">
+															<tr bgcolor="0d3644">
+																<td>
+																	<p align=center><font size="6" color="red"><i class="fa fa-tablet fa-5x" aria-hidden="true"></i></font></p>
+																</td>
+															</tr>
+																		<tr>
+																			<td>
+																				Czym jest Lorem Ipsum?
+																				Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym, pozostając praktycznie niezmienionym. Spopularyzował się w latach 60. XX w. wraz z publikacją arkuszy Letrasetu, zawierających fragmenty Lorem Ipsum, a ostatnio z zawierającym różne wersje Lorem Ipsum oprogramowaniem przeznaczonym do realizacji druków na komputerach osobistych, jak Aldus PageMaker
+																			</td>
+																		</tr>
+														</table>
+													</td>
+														<td></td>
+															<td width="45%">
+																<table border="0" align=center height="100%" width="100%">
+																	<tr bgcolor="0d3644">
+																		<td>
+																			<p align=center><font size="6" color="green"><i class="fa fa-clock-o fa-5x" aria-hidden="true"></i></font></p>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td>
+																			Czym jest Lorem Ipsum?
+																			Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym, pozostając praktycznie niezmienionym. Spopularyzował się w latach 60. XX w. wraz z publikacją arkuszy Letrasetu, zawierających fragmenty Lorem Ipsum, a ostatnio z zawierającym różne wersje Lorem Ipsum oprogramowaniem przeznaczonym do realizacji druków na komputerach osobistych, jak Aldus PageMaker
+																		</td>
+																	</tr>
+																</table>
+															</td> 
+													</tr>
+		
+														</table>
+													</td>
+												</tr>
+									</table>
+								</td>
+							</tr>
+		<tr bgcolor="f7504b">
+			<td>
+	<table border="0" align=center height="50%" width="80%">
+		<tr bgcolor="f7504b">
+			<td width="80%"><font color="white" face="Bitter">&reg Someone, somewhere 2013 <br><u>Unsubscribe</u> to this newsletter instantly</font></td>
+			<td width="20%">
+				<p align=right>
+				<span class="fa-stack fa-lg">
+					<i class="fa fa-circle-thin fa-stack-2x"></i>
+					<i class="fa fa-twitter fa-stack-1x"></i>
+				</span>
+				<span class="fa-stack fa-lg">
+					<i class="fa fa-circle-thin fa-stack-2x"></i>
+					<i class="fa fa-facebook fa-stack-1x"></i>
+				</span>
+				
+				</p>
+			</td>
+		</tr>
+		
+	</table>
+			</td>
+		</tr>
+</table>
+</body>
+</html>
