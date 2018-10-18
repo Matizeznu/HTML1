@@ -1,0 +1,64 @@
+# HTML1
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	<map name="wizytuwka">
+		<area 
+					shape="rectangle"
+					href="tel:888 466 48 32"
+					coords="230,30,500,59"
+					>
+		<area 
+					shape="rectangle" 
+					href="mailto:name@mail.com"
+					coords="230,59,500,82"
+					>
+		<area 
+					shape="rectangle"
+					href="http://ezn.edu.pl/"
+					coords="230,82,500,109"
+					>
+		<area 
+					shape="rectangle"
+					href="https://www.google.com/maps/search/594,main+street,downtown,LA/@34.0432108,-118.267463,14z/data=!3m1!4b1"
+					coords="230,109,500,145"
+					>
+		<area 
+				shape="circle"
+				href="https://pl-pl.facebook.com/"
+				coords="232,174,10"
+				>
+		<area 
+				shape="circle"
+				href="https://twitter.com/?lang=pl"
+				coords="270,174,10"
+				>
+		<area 
+				shape="circle"
+				href="https://pl.linkedin.com/"
+				coords="308,174,10"
+				>
+		<area 
+				shape="circle"
+				href="https://plus.google.com/discover"
+				coords="340,174,10"
+				>
+		<area 
+				shape="circle"
+				href="https://en.wikipedia.org/wiki/Basketball"
+				coords="380,174,10"
+				>
+		<area 
+				shape="circle"
+				href="https://www.wykop.pl/tag/rafonix/wszystkie/next/entry-26087117/"
+				coords="115,82,30"
+				>
+	</map>
+	<p align=center>
+		<img width="634" height="213" src="http://aplikacje.vector.org.pl/images/html/sygnatura.png" usemap="#wizytuwka">
+	</p>
+</body>
+</html>
+
