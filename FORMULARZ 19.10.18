@@ -1,0 +1,95 @@
+# HTML1
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset=UTF-8>
+</head>
+<body>
+	<form action="http://postman-echo.com/post" method="POST">
+		<table bgcolor="black" width="80%" border="1" align=center>
+		<tr>
+		<td>INQUIRES</td>
+		</tr>
+		<tr>
+		<td>
+		<table bgcolor="1fb9c5" width="80%" border="1" align=center >
+			<tr>
+				<td>
+		
+					<p>
+						<input 
+							type="text"
+							name="imie"
+							placeholder="Wpisz imie"
+							size=32>
+					</p>
+				</td>
+				<td>
+					<p>
+						<input 
+							type="text"
+							name="nazwisko"
+							placeholder="Wpisz nazwisko"
+							size=32>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<p>
+						<input 
+							type="text"
+							name="email"
+							placeholder="Wpisz email"
+							size=32>
+					</p>
+				</td>
+				<td><p>
+						<input 
+							type="text"
+							name="tel"
+							placeholder="Wpisz telefon"
+							size=32>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<p>
+						
+						<select name="język" multiple size=1>	
+							<option selected>EN</option>
+							<option>PL</option>
+							<option>DE</option>
+							<option>FR</option>
+						</select>
+		
+					</p>
+				</td>	
+			</tr>
+			<tr>
+				<td colspan="2">
+					<p>
+						<textarea name="dlugi_teskt" rows=15 cols=120>www</textarea>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td color="black" colspan="2" align=right>
+					<p>
+						<input 
+							type="submit"
+							value="wyślij">
+					</p>
+				</td>
+			</tr>
+		</table>
+		</td>
+		</tr>
+	</table>
+		
+		
+	
+	</form>
+</body>
+</html>
