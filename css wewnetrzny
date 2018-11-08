@@ -1,0 +1,35 @@
+# HTML1
+<!doctype html>
+<html>
+<head>
+	<style>
+		.kolorki{
+			color:red;
+		}
+		.bialy tekst
+		{
+			color:beige;
+		}
+		.bielszy tekst
+		{
+			color:orange;
+		}
+		.tabelka
+		{
+			color:green;
+			background-color:red;
+			border-color:green;
+		}
+	</style>
+</head>
+<body>
+	<div class="kolorki"><h2>Make me red using a HEX code</h2></div>
+	<div class="bialy tekst"><p>Whats up yo stlye me with a 'color name' of your choice</p></div>
+	<div class="bielszy tekst"><h3>Create a Class for me and pick a Color!</h3></div>
+	<div class="tabelka"><table border="1" >
+		<tr>
+			<td>Create an ID for me and pick a light background.Give me a super rad color and border</td>
+		</tr>
+	</table></div>
+</body>
+</html>
