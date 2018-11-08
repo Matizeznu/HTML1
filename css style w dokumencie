@@ -1,0 +1,27 @@
+# HTML1
+<!doctype html>
+<html>
+<head>
+</head>
+<body style="background-color:blue">
+	
+	<h1 style="color:red;" align=left>Make me red using a HEX code</h1>
+	<p style="color:yellow;">Whats up yo stlye me with a 'color name' of your choice</p>
+	<h3 style="color:white;">Create a Class for me and pick a Color!</h3>
+	<table style="background-color:pink;border-color:green;">
+		<tr>
+			<td style="color:green;">Create an ID for me and pick a light background.Give me a super rad color and border</td>
+		</tr>
+	</table>
+	
+</body>
+</html>
+
+<h2>Make me red using a HEX code</h2>
+	<p >Whats up yo stlye me with a 'color name' of your choice</p>
+	<h3>Create a Class for me and pick a Color!</h3>
+	<table>
+		<tr>
+			<td>Create an ID for me and pick a light background.Give me a super rad color and border</td>
+		</tr>
+	</table>
