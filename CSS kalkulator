@@ -1,0 +1,55 @@
+# HTML1
+<!doctype html>
+<html>
+<head>
+	<style>
+		.margines{
+			padding= 20px;
+			}
+		.kalkulator1{
+			display:grid;
+			grid-template-columns:repeat(4, 50px)
+			grid-tempate-rows:repeat(5, 50px)
+			
+		
+		}
+		.button{
+			outline:1px solid black;
+			padding-top:18px;
+			padding-left=19px;
+			background-color:gray;
+		}
+		.orange{
+		
+		}
+
+	
+	</style>
+</head>
+<body>
+	<div class>
+		<div class=""></div>
+	</div>
+	<div class="kalkulator1>
+		<div class="button">C</div>
+		<div class="button">%</div>
+		<div class="button"><-</div>
+		<div class="button">/</div>
+		<div class="button">7</div>
+		<div class="button">8</div>
+		<div class="button">9</div>
+		<div class="button">x</div>
+		<div class="button">4</div>
+		<div class="button">5</div>
+		<div class="button">6</div>
+		<div class="button">-</div>
+		<div class="button">1</div>
+		<div class="button">2</div>
+		<div class="button">3</div>
+		<div class="button">+</div>
+		<div class="button">0</div>
+		<div class="button">.</div>
+		<div class="button">=</div>
+	</div>
+</body>
+</html>
