@@ -1,0 +1,233 @@
+# HTML1
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+	<table cellspacing="10px" border="1" width="80%">
+		<tr>
+			<td>
+				<table border="1" align=center width="850px">
+					<tr>
+						<td>
+							<table border="0" align=center height="100px"  cellspacing="10px" width="100%">
+								<tr>
+									<td>
+									<h1>Proforma Invoice</h1>
+									<td>
+									<td>
+									<img height="35%" src="data:image/png;base64,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" align=right>
+									<td>
+								</tr>
+								
+								<tr>
+									<td>
+									<b>Date:</b>
+									<td>
+									<td align=right>
+									<b>CARRIER:<u>TNT EXPRESS WORLDWIDE</u></b>
+									<td>
+								</tr>
+								
+					
+							</table>
+						<td>
+					</tr>
+				
+				</table>
+ <table border="1" width="100%">
+		<tr>
+			<td>
+				<table border="0" width="100%">
+					<tr>
+					<td><b><u>SENT BY</b></u> </td>
+					</tr>
+					<tr>
+					<td><b>Name:</b> </td>
+					</tr>
+					<tr>
+					<td><b>Address:</b> </td>
+					</tr>
+					<tr>
+					<td><b>City/Postal Code:</b> </td>
+					</tr>
+					<tr>
+					<td><b>Country:</b> </td>
+					</tr>
+					<tr>
+					<td><b>Telephone/Fax:</b> </td>
+					</tr>
+					
+				</table>
+			</td>
+			<td>
+				<table border="0" width="100%">
+					<tr>
+					<td><b><u>SENT TO</b></u> </td>
+					</tr>
+					<tr>
+					<td><b>Name:</b> </td>
+					</tr>
+					<tr>
+					<td><b>Address:</b> </td>
+					</tr>
+					<tr>
+					<td><b>City/Postal Code:</b> </td>
+					</tr>
+					<tr>
+					<td><b>Country:</b> </td>
+					</tr>
+					<tr>
+					<td><b>Telephone/Fax:</b> </td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	  </table>
+				<table width="100%">
+					<tr>
+						<td colspan="2">
+							<table  border="1" width="100%">
+								<tr>
+									<td width="250px" align=center>
+									FULL DESCRIPTION OF GOODS
+									</td>
+									<td width="50px" align=center>
+									QTY
+									</td>
+									<td width="100px" align=center>
+									COUNTRY
+									</td>
+									<td width="100px" align=center>
+									ORIGIN COUNTRY
+									</td>
+									<td width="100px" align=center>
+									CUSTOMS COMMODITY CODE
+									</td width="100px" align=center>
+									<td >
+									UNIT VALUE AND CURRENCY
+									</td>
+									<td width="100px" align=center>
+									TOTAL VALUE AND CURRENCY
+									</td>
+								</tr>
+								<tr height="23px">
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									
+									
+
+									
+								</tr>
+								<tr height="23px">
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									
+									
+
+									
+								</tr>
+								<tr height="23px">
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									
+									
+
+									
+								</tr>
+								<tr height="23px">
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									
+									
+
+									
+								</tr>
+								<tr height="23px">
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									<td>
+									</td>
+									
+									
+
+									
+								</tr>
+								<tr >
+									<td align=right colspan="6">
+									<b>TOTAL VALUE AND CURRENCY:</b>
+									</td>
+									<td>
+									</td>
+								</tr>
+								
+							</table>
+						</td>
+					</tr>
+
+					
+				
+				</table>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
